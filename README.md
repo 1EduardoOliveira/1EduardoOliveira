@@ -6,8 +6,6 @@ Atualmente curso Análise e Desenvolvimento de Sistemas na Universidade Veiga de
 
 Durante minha formação técnica, desenvolvi conhecimentos em programação, desenvolvimento de software, bancos de dados e suporte técnico.
 
-🛠️ Tech Stack
-
 ### Linguagens
 Java • Kotlin • PHP • SQL
 
